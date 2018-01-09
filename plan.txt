@@ -1,0 +1,11 @@
+#I am going to be making a index file that will have different functions.
+ -> The functions will call different methods in different files
+ -> We wiil need to change the webhook when we first init the different methods
+ -> Methods we will be using!
+ -> 1.text = Image (Done)
+	2.image = Text (This will be done through machine learning)
+	3.Play a game (TextBased Game probably)
+	4.Motivation (This is lame)
+	5.Weather
+	6.Ask me a Question
+	7.Tell me a Joke!
