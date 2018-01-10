@@ -65,7 +65,7 @@ def text_to_image():
 	
 	return imageList
    ```
-   # Limitaions
+   # Limitations
     -> I never got around to implementing text machine learning that would understand a users emotion based on word choice and sentance structure
     -> The joke mode was never implemented
     -> The weather mode was nver implemented
