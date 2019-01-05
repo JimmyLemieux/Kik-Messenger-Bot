@@ -1,5 +1,5 @@
 # Kik-Messenger-Bot
-This lightweight bot uses the Kik API to access the webhook capabilites that are available to return json API responses.
+This lightweight bot uses the Kik API to access the webhook capabilities that are available to return json API responses.
   -> An application called 'ngrok' was used in order to tunnel the webhook to the localhost of your computer:
    -> ngrok tunnel session:
   ![ngrok tunnel session](https://i.gyazo.com/b9273fadc572c414ebddea7df9cadb2b.png)
